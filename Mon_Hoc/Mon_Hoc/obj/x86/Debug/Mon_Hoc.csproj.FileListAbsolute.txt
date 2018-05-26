@@ -1,0 +1,7 @@
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\obj\x86\Debug\Mon_Hoc.Form1.resources
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\obj\x86\Debug\Mon_Hoc.Properties.Resources.resources
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\obj\x86\Debug\Mon_Hoc.csproj.GenerateResource.Cache
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\bin\Debug\Mon_Hoc.exe
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\bin\Debug\Mon_Hoc.pdb
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\obj\x86\Debug\Mon_Hoc.exe
+G:\Code\C#\BTL\QLMH\Mon_Hoc\Mon_Hoc\obj\x86\Debug\Mon_Hoc.pdb

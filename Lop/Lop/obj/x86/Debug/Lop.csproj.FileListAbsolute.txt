@@ -1,0 +1,14 @@
+G:\Code\C#\Lop\Lop\bin\Debug\Lop.exe
+G:\Code\C#\Lop\Lop\bin\Debug\Lop.pdb
+G:\Code\C#\Lop\Lop\obj\x86\Debug\Lop.Form1.resources
+G:\Code\C#\Lop\Lop\obj\x86\Debug\Lop.Properties.Resources.resources
+G:\Code\C#\Lop\Lop\obj\x86\Debug\Lop.csproj.GenerateResource.Cache
+G:\Code\C#\Lop\Lop\obj\x86\Debug\Lop.exe
+G:\Code\C#\Lop\Lop\obj\x86\Debug\Lop.pdb
+G:\Code\C#\BTL\QLLop\Lop\Lop\obj\x86\Debug\Lop.exe
+G:\Code\C#\BTL\QLLop\Lop\Lop\obj\x86\Debug\Lop.pdb
+G:\Code\C#\BTL\QLLop\Lop\Lop\bin\Debug\Lop.exe
+G:\Code\C#\BTL\QLLop\Lop\Lop\bin\Debug\Lop.pdb
+G:\Code\C#\BTL\QLLop\Lop\Lop\obj\x86\Debug\Lop.Form1.resources
+G:\Code\C#\BTL\QLLop\Lop\Lop\obj\x86\Debug\Lop.Properties.Resources.resources
+G:\Code\C#\BTL\QLLop\Lop\Lop\obj\x86\Debug\Lop.csproj.GenerateResource.Cache
