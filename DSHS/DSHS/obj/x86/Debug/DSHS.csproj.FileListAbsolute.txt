@@ -1,0 +1,8 @@
+G:\Code\C#\DSHS\DSHS\bin\Debug\DSHS.exe
+G:\Code\C#\DSHS\DSHS\bin\Debug\DSHS.pdb
+G:\Code\C#\DSHS\DSHS\obj\x86\Debug\DSHS.csprojResolveAssemblyReference.cache
+G:\Code\C#\DSHS\DSHS\obj\x86\Debug\DSHS.Form1.resources
+G:\Code\C#\DSHS\DSHS\obj\x86\Debug\DSHS.Properties.Resources.resources
+G:\Code\C#\DSHS\DSHS\obj\x86\Debug\DSHS.csproj.GenerateResource.Cache
+G:\Code\C#\DSHS\DSHS\obj\x86\Debug\DSHS.exe
+G:\Code\C#\DSHS\DSHS\obj\x86\Debug\DSHS.pdb
